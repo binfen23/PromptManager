@@ -19,7 +19,7 @@
 
 ## 依赖  
 
-`python -m pip install pywebview psutil PyInstaller requests Pillow pywin32 pynput`  
+`python -m pip install pywebview psutil PyInstaller requests Pillow pywin32 pynput pystray`  
 
 ## 打包  
 
